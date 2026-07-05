@@ -1,5 +1,7 @@
 # ChefAgent: Your Personal Culinary Concierge 👨‍🍳
 
+🚀 **Live Demo:** [https://chefagent-708270570687.asia-southeast1.run.app](https://chefagent-708270570687.asia-southeast1.run.app)
+
 ## Problem
 Food waste is a massive global problem, and on a personal level, it often stems from not knowing what to cook with the random ingredients left in the fridge. People often resort to ordering takeout because planning a meal and finding a recipe that matches their exact constraints (time, dietary needs, available ingredients) is mentally exhausting. 
 
