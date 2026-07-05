@@ -1,0 +1,6 @@
+{
+  "name": "ChefAgent",
+  "description": "A personal culinary concierge agent that helps you cook with what you have, step-by-step.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
